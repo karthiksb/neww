@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/neww/static/css/main.bf3d3d5f.css",
+    "main.js": "/neww/static/js/main.3a605360.js",
+    "static/js/787.1ed0c42c.chunk.js": "/neww/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pic3.png": "/neww/static/media/pic3.47b0fa8182b2c098c287.png",
+    "static/media/pic4.png": "/neww/static/media/pic4.bab9e52dc116aa3de8ce.png",
+    "static/media/pic5.png": "/neww/static/media/pic5.daf76bd8df664c398e65.png",
+    "static/media/pic2.png": "/neww/static/media/pic2.0f1c2fcd0371196ce583.png",
+    "static/media/pic1.jpg": "/neww/static/media/pic1.76986bc68d564f02bb6d.jpg",
+    "static/media/model.jpg": "/neww/static/media/model.64a16b26cb2f82e2c512.jpg",
+    "static/media/logo.svg": "/neww/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/instagram-brands.svg": "/neww/static/media/instagram-brands.813fd06b51b26e101fbbdde32e64af13.svg",
+    "index.html": "/neww/index.html",
+    "main.bf3d3d5f.css.map": "/neww/static/css/main.bf3d3d5f.css.map",
+    "main.3a605360.js.map": "/neww/static/js/main.3a605360.js.map",
+    "787.1ed0c42c.chunk.js.map": "/neww/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3d3d5f.css",
+    "static/js/main.3a605360.js"
+  ]
+}
